@@ -1,0 +1,196 @@
+file,surv_id,source,events,terminations,status
+ALIR51DT.ZIP,327,calendar,1884.0,263.0,ok
+ALIR71DT.ZIP,525,calendar,2980.0,248.0,ok
+AMIR61DT.ZIP,354,calendar,2353.0,877.0,ok
+AMIR72DT.ZIP,492,calendar,2600.0,891.0,ok
+AOIR71DT.ZIP,477,calendar,14901.0,805.0,ok
+AOIR81DT.ZIP,569,dhs8,12081.0,676.0,ok
+BDIR41DT.ZIP,135,calendar,7788.0,959.0,ok
+BDIR4JDT.ZIP,236,calendar,8020.0,1154.0,ok
+BDIR51DT.ZIP,287,calendar,7082.0,930.0,ok
+BDIR61DT.ZIP,349,calendar,10085.0,1354.0,ok
+BDIR72DT.ZIP,461,calendar,9048.0,1152.0,ok
+BDIR7RDT.ZIP,536,calendar,10119.0,1446.0,ok
+BDIR81DT.ZIP,584,dhs8,15494.0,2236.0,ok
+BFIR21DT.ZIP,,,,,no calendar or pregnancy history
+BFIR31DT.ZIP,,,,,no calendar or pregnancy history
+BFIR43DT.ZIP,230,calendar,8674.0,310.0,ok
+BFIR62DT.ZIP,329,calendar,14755.0,805.0,ok
+BFIR81DT.ZIP,562,dhs8,13284.0,963.0,ok
+BJIR31DT.ZIP,,,,,no calendar or pregnancy history
+BJIR41DT.ZIP,,,,,no calendar or pregnancy history
+BJIR61DT.ZIP,420,calendar,13566.0,495.0,ok
+BJIR71DT.ZIP,491,calendar,13901.0,1043.0,ok
+BOIR51DT.ZIP,319,calendar,9891.0,1292.0,ok
+BUIR61DT.ZIP,346,calendar,8306.0,617.0,ok
+BUIR71DT.ZIP,463,calendar,14032.0,1100.0,ok
+CDIR51DT.ZIP,,,,,no calendar or pregnancy history
+CDIR61DT.ZIP,,,,,no calendar or pregnancy history
+CDIR81DT.ZIP,597,dhs8,26687.0,2477.0,ok
+CFIR31DT.ZIP,,,,,no calendar or pregnancy history
+CIIR35DT.ZIP,,,,,no calendar or pregnancy history
+CIIR3ADT.ZIP,,,,,no calendar or pregnancy history
+CIIR62DT.ZIP,,,,,no calendar or pregnancy history
+CIIR81DT.ZIP,559,dhs8,12303.0,1655.0,ok
+CMIR22DT.ZIP,,,,,no calendar or pregnancy history
+CMIR44DT.ZIP,232,calendar,0.0,0.0,ok
+CMIR61DT.ZIP,,,,,no calendar or pregnancy history
+CMIR71DT.ZIP,,,,,no calendar or pregnancy history
+COIR61DT.ZIP,381,calendar,20715.0,3330.0,ok
+DRIR52DT.ZIP,,,,,no calendar or pregnancy history
+DRIR61DT.ZIP,,,,,no calendar or pregnancy history
+DRIR6ADT.ZIP,,,,,no calendar or pregnancy history
+EGIR21DT.ZIP,45,calendar,10008.0,1261.0,ok
+EGIR33DT.ZIP,71,calendar,13859.0,1844.0,ok
+EGIR42DT.ZIP,145,calendar,12953.0,1640.0,ok
+EGIR4ADT.ZIP,240,calendar,6356.0,712.0,ok
+EGIR51DT.ZIP,272,calendar,14936.0,1901.0,ok
+EGIR5ADT.ZIP,294,calendar,11946.0,1443.0,ok
+EGIR61DT.ZIP,397,calendar,17769.0,2253.0,ok
+ETIR41DT.ZIP,,,,,no calendar or pregnancy history
+ETIR51DT.ZIP,248,calendar,10106.0,436.0,ok
+ETIR61DT.ZIP,359,calendar,11842.0,681.0,ok
+ETIR71DT.ZIP,478,calendar,10695.0,608.0,ok
+ETIR81DT.ZIP,,,,,no calendar or pregnancy history
+ETIR8ADT.ZIP,586,dhs8,14824.0,1212.0,ok
+GAIR61DT.ZIP,402,calendar,0.0,0.0,ok
+GAIR71DT.ZIP,546,calendar,7183.0,936.0,ok
+GHIR31DT.ZIP,,,,,no calendar or pregnancy history
+GHIR41DT.ZIP,,,,,no calendar or pregnancy history
+GHIR4BDT.ZIP,235,calendar,3529.0,152.0,ok
+GHIR5ADT.ZIP,301,calendar,3321.0,433.0,ok
+GHIR72DT.ZIP,437,calendar,6732.0,1031.0,ok
+GHIR8CDT.ZIP,598,dhs8,11009.0,1654.0,ok
+GMIR81DT.ZIP,555,calendar,9230.0,1005.0,ok
+GNIR41DT.ZIP,,,,,no calendar or pregnancy history
+GNIR52DT.ZIP,249,calendar,6551.0,326.0,ok
+GNIR62DT.ZIP,,,,,no calendar or pregnancy history
+GNIR71DT.ZIP,539,calendar,8505.0,692.0,ok
+GUIR71DT.ZIP,440,calendar,13390.0,1042.0,ok
+GYIR5IDT.ZIP,309,calendar,2491.0,428.0,ok
+HNIR62DT.ZIP,369,calendar,11815.0,1117.0,ok
+HTIR42DT.ZIP,155,calendar,0.0,0.0,ok
+HTIR52DT.ZIP,,,,,no calendar or pregnancy history
+HTIR61DT.ZIP,,,,,no calendar or pregnancy history
+HTIR71DT.ZIP,,,,,no calendar or pregnancy history
+IAIR74DT.ZIP,355,calendar,289927.0,31390.0,ok
+IAIR7EDT.ZIP,541,calendar,258584.0,27847.0,ok
+IDIR42DT.ZIP,172,calendar,16665.0,1282.0,ok
+JOIR42DT.ZIP,208,calendar,7168.0,1185.0,ok
+JOIR51DT.ZIP,295,calendar,11993.0,1697.0,ok
+JOIR6CDT.ZIP,403,calendar,12449.0,2204.0,ok
+JOIR74DT.ZIP,500,calendar,12004.0,1562.0,ok
+JOIR81DT.ZIP,596,dhs8,10275.0,1131.0,ok
+KEIR42DT.ZIP,216,calendar,6198.0,361.0,ok
+KEIR52DT.ZIP,300,calendar,6350.0,380.0,ok
+KEIR72DT.ZIP,451,calendar,10618.0,648.0,ok
+KEIR8CDT.ZIP,566,dhs8,21682.0,2127.0,ok
+KHIR42DT.ZIP,,,,,no calendar or pregnancy history
+KHIR51DT.ZIP,257,calendar,0.0,0.0,ok
+KHIR61DT.ZIP,310,calendar,10242.0,2057.0,ok
+KHIR73DT.ZIP,464,calendar,9351.0,2204.0,ok
+KHIR82DT.ZIP,558,dhs8,10271.0,2126.0,ok
+KMIR61DT.ZIP,443,calendar,3219.0,271.0,ok
+KYIR61DT.ZIP,383,calendar,5542.0,1232.0,ok
+LBIR01DT.ZIP,,,,,no calendar or pregnancy history
+LBIR51DT.ZIP,,,,,no calendar or pregnancy history
+LBIR6ADT.ZIP,435,calendar,8376.0,877.0,ok
+LBIR7ADT.ZIP,537,calendar,6226.0,699.0,ok
+LSIR41DT.ZIP,256,calendar,0.0,0.0,ok
+LSIR61DT.ZIP,317,calendar,4157.0,244.0,ok
+LSIR71DT.ZIP,462,calendar,3377.0,263.0,ok
+LSIR81DT.ZIP,572,dhs8,2875.0,338.0,ok
+MAIR43DT.ZIP,214,calendar,6949.0,794.0,ok
+MBIR53DT.ZIP,258,calendar,2893.0,1347.0,ok
+MDIR31DT.ZIP,,,,,no calendar or pregnancy history
+MDIR51DT.ZIP,296,calendar,13250.0,1037.0,ok
+MDIR81DT.ZIP,560,calendar,13677.0,1302.0,ok
+MLIR32DT.ZIP,,,,,no calendar or pregnancy history
+MLIR41DT.ZIP,159,calendar,13840.0,885.0,ok
+MLIR53DT.ZIP,276,calendar,13849.0,555.0,ok
+MLIR6ADT.ZIP,405,calendar,10610.0,425.0,ok
+MLIR7ADT.ZIP,517,calendar,9936.0,569.0,ok
+MLIR8ADT.ZIP,613,dhs8,17334.0,1729.0,ok
+MMIR71DT.ZIP,454,calendar,5335.0,507.0,ok
+MRIR71DT.ZIP,553,calendar,11709.0,910.0,ok
+MWIR41DT.ZIP,158,calendar,10360.0,293.0,ok
+MWIR4EDT.ZIP,251,calendar,11367.0,591.0,ok
+MWIR61DT.ZIP,333,calendar,20333.0,1116.0,ok
+MWIR7ADT.ZIP,483,calendar,17928.0,964.0,ok
+MWIR81DT.ZIP,592,dhs8,13491.0,1132.0,ok
+MZIR62DT.ZIP,362,calendar,11716.0,794.0,ok
+MZIR82DT.ZIP,564,dhs8,10092.0,793.0,ok
+NGIR21DT.ZIP,,,,,no calendar or pregnancy history
+NGIR4BDT.ZIP,,,,,no calendar or pregnancy history
+NGIR53DT.ZIP,302,calendar,30181.0,1900.0,ok
+NGIR6ADT.ZIP,438,calendar,33545.0,2483.0,ok
+NGIR7BDT.ZIP,528,calendar,35851.0,2695.0,ok
+NGIR8BDT.ZIP,609,dhs8,30849.0,3042.0,ok
+NIIR22DT.ZIP,,,,,no calendar or pregnancy history
+NIIR31DT.ZIP,,,,,no calendar or pregnancy history
+NIIR61DT.ZIP,407,calendar,13326.0,907.0,ok
+NMIR41DT.ZIP,,,,,no calendar or pregnancy history
+NMIR51DT.ZIP,284,calendar,5298.0,275.0,ok
+NMIR61DT.ZIP,363,calendar,5338.0,324.0,ok
+NPIR41DT.ZIP,202,calendar,0.0,0.0,ok
+NPIR51DT.ZIP,268,calendar,6485.0,702.0,ok
+NPIR61DT.ZIP,356,calendar,6383.0,1065.0,ok
+NPIR7HDT.ZIP,472,calendar,6296.0,1278.0,ok
+NPIR82DT.ZIP,585,dhs8,6676.0,1305.0,ok
+PEIR41DT.ZIP,176,calendar,15011.0,1351.0,ok
+PEIR51DT.ZIP,228,calendar,14818.0,1651.0,ok
+PEIR5IDT.ZIP,334,calendar,11755.0,1426.0,ok
+PHIR41DT.ZIP,227,calendar,7970.0,834.0,ok
+PHIR52DT.ZIP,,,,,no calendar or pregnancy history
+PHIR71DT.ZIP,,,,,no calendar or pregnancy history
+PHIR82DT.ZIP,603,dhs8,9446.0,946.0,ok
+PKIR53DT.ZIP,,,,,no calendar or pregnancy history
+PKIR71DT.ZIP,523,calendar,15043.0,2495.0,ok
+RWIR53DT.ZIP,252,calendar,9100.0,511.0,ok
+RWIR5ADT.ZIP,,,,,no calendar or pregnancy history
+RWIR61DT.ZIP,364,calendar,9606.0,647.0,ok
+RWIR70DT.ZIP,468,calendar,8483.0,713.0,ok
+RWIR81DT.ZIP,554,calendar,8833.0,835.0,ok
+RWIR91DT.ZIP,624,dhs8,8111.0,897.0,ok
+SLIR51DT.ZIP,324,calendar,5926.0,410.0,ok
+SLIR61DT.ZIP,450,calendar,12578.0,784.0,ok
+SLIR7ADT.ZIP,545,calendar,9967.0,612.0,ok
+SNIR21DT.ZIP,,,,,no calendar or pregnancy history
+SNIR32DT.ZIP,,,,,no calendar or pregnancy history
+SNIR4ADT.ZIP,233,calendar,11325.0,740.0,ok
+SNIR61DT.ZIP,365,calendar,13001.0,1107.0,ok
+SNIR6DDT.ZIP,423,calendar,7462.0,681.0,ok
+SNIR71DT.ZIP,457,calendar,7211.0,585.0,ok
+SNIR7ADT.ZIP,489,calendar,7548.0,669.0,ok
+SNIR7IDT.ZIP,524,calendar,7185.0,561.0,ok
+SNIR7ZDT.ZIP,534,calendar,13218.0,1256.0,ok
+SNIR81DT.ZIP,580,calendar,7311.0,708.0,ok
+SNIR8BDT.ZIP,581,calendar,6604.0,624.0,ok
+SNIR8SDT.ZIP,611,dhs8,11590.0,1059.0,ok
+SZIR51DT.ZIP,259,calendar,2910.0,163.0,ok
+TDIR71DT.ZIP,,,,,no calendar or pregnancy history
+TGIR01DT.ZIP,,,,,no calendar or pregnancy history
+TGIR31DT.ZIP,114,calendar,0.0,0.0,ok
+TGIR61DT.ZIP,,,,,no calendar or pregnancy history
+TJIR61DT.ZIP,384,calendar,5792.0,1015.0,ok
+TJIR72DT.ZIP,521,calendar,7305.0,1172.0,ok
+TJIR81DT.ZIP,608,dhs8,6122.0,1038.0,ok
+TLIR61DT.ZIP,340,calendar,10044.0,323.0,ok
+TLIR71DT.ZIP,514,calendar,7397.0,248.0,ok
+TZIR41DT.ZIP,,,,,no calendar or pregnancy history
+TZIR63DT.ZIP,345,calendar,8367.0,720.0,ok
+TZIR7BDT.ZIP,485,calendar,11079.0,1073.0,ok
+TZIR82DT.ZIP,578,dhs8,11886.0,1090.0,ok
+UGIR41DT.ZIP,169,calendar,3779.0,301.0,ok
+UGIR52DT.ZIP,266,calendar,8362.0,795.0,ok
+UGIR61DT.ZIP,399,calendar,8555.0,834.0,ok
+UGIR7BDT.ZIP,504,calendar,16725.0,1675.0,ok
+ZAIR71DT.ZIP,390,calendar,3830.0,328.0,ok
+ZMIR51DT.ZIP,278,calendar,6659.0,396.0,ok
+ZMIR61DT.ZIP,406,calendar,14089.0,768.0,ok
+ZMIR71DT.ZIP,542,calendar,10142.0,581.0,ok
+ZMIR81DT.ZIP,610,dhs8,9491.0,824.0,ok
+ZWIR42DT.ZIP,184,calendar,3792.0,287.0,ok
+ZWIR52DT.ZIP,260,calendar,5537.0,378.0,ok
+ZWIR62DT.ZIP,367,calendar,5718.0,415.0,ok
+ZWIR72DT.ZIP,475,calendar,6580.0,536.0,ok

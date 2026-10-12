@@ -1,0 +1,18 @@
+# Restricted DHS microdata, coordinates and everything derived at the level of births
+dhs_raw/
+data/*
+!data/climate_tertiles.json
+!data/dhs_api_surveys.csv
+!data/dhs_api_surveys_mis_ais.csv
+!data/survey_qc.csv
+!data/survey_qc_mis_ais.csv
+!data/pregnancy_qc.csv
+!data/ne_110m_countries.geojson
+results/fig_anom_sample.csv
+results/fig_map_cells.csv
+results/*_log.txt
+*.parquet
+*.zarr/
+.acled_token.json
+__pycache__/
+*.pyc
